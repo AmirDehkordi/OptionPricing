@@ -1,4 +1,4 @@
-# Options Pricing Module - README
+# Options Pricing Module 
 
 ## Introduction
 This python module provides a comprehensive framework to price various types of options: American, European, and Asian, using advanced financial models. These models are implemented in an Object-Oriented Programming (OOP) paradigm, encapsulated in different classes, each representing different types of options and the underlying assets.
