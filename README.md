@@ -59,7 +59,7 @@ The AsianEuropeanOption class is a subclass of MonteCarloValuedOption and repres
 First, import the module into your script.
 
 ```python
-import options_pricing
+import OptionPricing
 ```
 
 ### Pricing a European Option
