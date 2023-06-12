@@ -1,8 +1,5 @@
 """
-@author: Amirreza Ghadiridehkordi.
-
-id: 2471149
-Advanced Mathematical Finance
+@author: Amir Dehkordi.
 """
 
 # Python version (3, 8, 8)
